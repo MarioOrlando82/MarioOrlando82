@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer at Bina Nusantara IT Division.
+I'm a Associate Software Engineer at Bina Nusantara IT Division.
 
 🔗: https://mario-orlando.vercel.app/ 
 
