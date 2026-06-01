@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Development Engineer Intern at Blibli.com
+I'm a Software Engineer at Traveloka
 
 🔗: https://mario-orlando.vercel.app/ 
 
